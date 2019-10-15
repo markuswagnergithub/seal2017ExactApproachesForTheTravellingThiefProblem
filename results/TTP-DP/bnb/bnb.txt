@@ -1,0 +1,48 @@
+./experiments/eil51_sub/eil51_n05_m20_uncorr_01.ttp	BnB	[1, 3, 4, 5, 2, 1]	benefit: 2144.7964774257266	weight: 838	profit: 3578	packingplan: [5, 7, 8, 9, 12, 15]	time:0.094
+./experiments/eil51_sub/eil51_n05_m40_uncorr_01.ttp	BnB	[1, 3, 4, 5, 2, 1]	benefit: 4395.039360752155	weight: 1413	profit: 9462	packingplan: [1, 4, 5, 7, 10, 12, 14, 15, 16, 20, 21, 24, 27]	time:0.186
+./experiments/eil51_sub/eil51_n05_m4_uncorr_01.ttp	BnB	[1, 4, 5, 2, 3, 1]	benefit: 466.9290763430722	weight: 421	profit: 992	packingplan: [1]	time:0.023
+./experiments/eil51_sub/eil51_n06_m25_uncorr_01.ttp	BnB	[1, 3, 2, 5, 4, 6, 1]	benefit: 3814.8063570987206	weight: 1128	profit: 5199	packingplan: [1, 2, 5, 7, 8, 12, 15]	time:0.235
+./experiments/eil51_sub/eil51_n06_m50_uncorr_01.ttp	BnB	[1, 3, 2, 5, 4, 6, 1]	benefit: 8687.203074696772	weight: 1954	profit: 11599	packingplan: [1, 2, 5, 6, 8, 11, 16, 17, 19, 20, 21, 25, 26, 29, 34, 38]	time:0.451
+./experiments/eil51_sub/eil51_n06_m5_uncorr_01.ttp	BnB	[1, 3, 2, 5, 4, 6, 1]	benefit: 670.9721206409047	weight: 421	profit: 992	packingplan: [1]	time:0.079
+./experiments/eil51_sub/eil51_n07_m30_uncorr_01.ttp	BnB	[1, 6, 4, 5, 2, 7, 3, 1]	benefit: 3792.930243666669	weight: 1266	profit: 6073	packingplan: [1, 2, 4, 7, 10, 11, 15, 18]	time:0.584
+./experiments/eil51_sub/eil51_n07_m60_uncorr_01.ttp	BnB	[1, 6, 4, 5, 2, 7, 3, 1]	benefit: 9273.33843928824	weight: 2421	profit: 13232	packingplan: [1, 2, 3, 5, 6, 8, 12, 17, 18, 21, 22, 23, 25, 28, 29, 32, 39, 43]	time:2.198
+./experiments/eil51_sub/eil51_n07_m6_uncorr_01.ttp	BnB	[1, 6, 4, 5, 2, 7, 3, 1]	benefit: 1201.7375296912116	weight: 743	profit: 1641	packingplan: [1, 2]	time:0.195
+./experiments/eil51_sub/eil51_n08_m35_uncorr_01.ttp	BnB	[1, 2, 5, 8, 7, 6, 3, 4, 1]	benefit: 3586.819942756203	weight: 1141	profit: 6986	packingplan: [1, 2, 4, 6, 9, 13, 14, 18, 22]	time:2.096
+./experiments/eil51_sub/eil51_n08_m70_uncorr_01.ttp	BnB	[1, 2, 5, 8, 7, 6, 3, 4, 1]	benefit: 8663.445026339561	weight: 2511	profit: 14032	packingplan: [1, 2, 3, 5, 6, 8, 13, 15, 20, 21, 24, 25, 27, 29, 32, 33, 36, 44, 48]	time:7.368
+./experiments/eil51_sub/eil51_n08_m7_uncorr_01.ttp	BnB	[1, 2, 5, 8, 7, 6, 3, 4, 1]	benefit: 1316.3252088648376	weight: 786	profit: 2098	packingplan: [1, 2, 4]	time:0.505
+./experiments/eil51_sub/eil51_n09_m40_uncorr_01.ttp	BnB	[1, 8, 5, 7, 3, 9, 4, 6, 2, 1]	benefit: 6065.955799900703	weight: 1538	profit: 9749	packingplan: [1, 2, 4, 5, 7, 10, 12, 15, 16, 20, 21, 24, 27]	time:13.297
+./experiments/eil51_sub/eil51_n09_m80_uncorr_01.ttp	BnB	[1, 8, 5, 7, 3, 9, 4, 6, 2, 1]	benefit: 10990.307327593571	weight: 3132	profit: 15314	packingplan: [1, 2, 3, 5, 6, 9, 14, 16, 21, 22, 25, 26, 29, 30, 31, 32, 34, 35, 38, 48, 52]	time:42.683
+./experiments/eil51_sub/eil51_n09_m8_uncorr_01.ttp	BnB	[1, 8, 5, 7, 3, 9, 4, 6, 2, 1]	benefit: 1351.7605439974438	weight: 786	profit: 2098	packingplan: [1, 3, 5]	time:1.492
+./experiments/eil51_sub/eil51_n10_m45_uncorr_01.ttp	BnB	[1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 6009.431425533337	weight: 1538	profit: 9749	packingplan: [1, 2, 5, 6, 8, 11, 14, 17, 18, 22, 23, 26, 30]	time:74.632
+./experiments/eil51_sub/eil51_n10_m90_uncorr_01.ttp	BnB	[1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 10337.190127664906	weight: 3393	profit: 15996	packingplan: [1, 2, 3, 5, 6, 10, 15, 17, 22, 23, 26, 27, 30, 31, 32, 33, 34, 36, 37, 40, 51, 56]	time:428.707
+./experiments/eil51_sub/eil51_n10_m9_uncorr_01.ttp	BnB	[1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 1125.7154544317905	weight: 786	profit: 2098	packingplan: [1, 3, 5]	time:5.188
+./experiments/eil51_sub/eil51_n11_m100_uncorr_01.ttp	BnB	[1, 11, 3, 5, 9, 4, 10, 6, 8, 2, 7, 1]	benefit: 12617.070268885771	weight: 4247	profit: 17840	packingplan: [1, 2, 3, 4, 7, 8, 12, 17, 19, 23, 24, 25, 26, 29, 30, 33, 34, 36, 37, 39, 40, 43, 55, 59]	time:4686.353
+./experiments/eil51_sub/eil51_n11_m10_uncorr_01.ttp	BnB	[1, 11, 3, 5, 9, 4, 10, 6, 8, 2, 7, 1]	benefit: 1296.2326622521914	weight: 786	profit: 2098	packingplan: [1, 3, 5]	time:23.106
+./experiments/eil51_sub/eil51_n11_m50_uncorr_01.ttp	BnB	[1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 8196.212479559508	weight: 1988	profit: 11465	packingplan: [1, 2, 3, 5, 6, 8, 11, 16, 17, 20, 21, 25, 26, 29, 34]	time:877.391
+./experiments/eil51_sub/eil51_n12_m110_uncorr_01.ttp	BnB	[1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 13589.145250807393	weight: 4604	profit: 18876	packingplan: [1, 2, 3, 4, 8, 10, 14, 20, 22, 27, 28, 29, 32, 33, 36, 37, 38, 40, 41, 43, 44, 47, 50, 60, 62, 65, 89]	time:64234.22
+./experiments/eil51_sub/eil51_n12_m11_uncorr_01.ttp	BnB	[1, 7, 2, 6, 8, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 1717.699462621892	weight: 795	profit: 2889	packingplan: [1, 3, 4, 6]	time:204.786
+./experiments/eil51_sub/eil51_n12_m55_uncorr_01.ttp	BnB	[1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 8838.012289498643	weight: 2179	profit: 12525	packingplan: [1, 2, 3, 5, 6, 8, 11, 16, 17, 20, 21, 23, 26, 27, 30, 36, 40]	time:10857.387
+./experiments/eil51_sub/eil51_n13_m120_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192282 ON r4n11 CANCELLED AT 2017-05-13T12:22:35 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n13_m12_uncorr_01.ttp	BnB	[1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 1611.8837209052797	weight: 795	profit: 2889	packingplan: [1, 3, 4, 6]	time:2007.074
+./experiments/eil51_sub/eil51_n13_m60_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192287 ON r1n45 CANCELLED AT 2017-05-13T13:05:41 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n14_m130_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192290 ON r3n08 CANCELLED AT 2017-05-13T15:11:30 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n14_m13_uncorr_01.ttp	BnB	[1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 2524.795088706841	weight: 917	profit: 3556	packingplan: [1, 3, 4, 5, 7]	time:36944.146
+./experiments/eil51_sub/eil51_n14_m65_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192296 ON r3n25 CANCELLED AT 2017-05-14T01:00:20 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n15_m140_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192299 ON r3n06 CANCELLED AT 2017-05-14T01:06:50 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n15_m14_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192302 ON r3n06 CANCELLED AT 2017-05-14T01:06:50 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n15_m70_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192305 ON r1n37 CANCELLED AT 2017-05-14T02:47:35 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n16_m150_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192308 ON r1n37 CANCELLED AT 2017-05-14T02:47:35 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n16_m15_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192309 ON r2n17 CANCELLED AT 2017-05-14T08:42:43 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n16_m75_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192310 ON r2n17 CANCELLED AT 2017-05-14T08:42:43 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n17_m160_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192311 ON r4n20 CANCELLED AT 2017-05-14T08:42:43 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n17_m16_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192312 ON r3n46 CANCELLED AT 2017-05-14T08:43:13 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n17_m80_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192313 ON r2n02 CANCELLED AT 2017-05-14T08:44:13 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n18_m170_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192314 ON r4n22 CANCELLED AT 2017-05-14T08:47:43 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n18_m17_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192315 ON r2n02 CANCELLED AT 2017-05-14T08:47:43 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n18_m85_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3202184 ON r2n17 CANCELLED AT 2017-05-15T12:20:07 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n19_m180_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192317 ON r2n12 CANCELLED AT 2017-05-14T08:48:13 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n19_m18_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192318 ON r4n13 CANCELLED AT 2017-05-14T08:48:13 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n19_m90_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192321 ON r2n24 CANCELLED AT 2017-05-14T08:49:13 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n20_m190_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192324 ON r4n13 CANCELLED AT 2017-05-14T08:50:13 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n20_m19_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192327 ON r2n12 CANCELLED AT 2017-05-14T08:51:15 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n20_m95_uncorr_01.ttp	BnB	slurmstepd: error: *** JOB 3192330 ON r4n22 CANCELLED AT 2017-05-14T08:51:15 DUE TO TIME LIMIT ***

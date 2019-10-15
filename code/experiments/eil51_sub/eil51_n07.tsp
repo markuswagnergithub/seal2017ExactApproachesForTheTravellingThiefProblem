@@ -1,0 +1,14 @@
+NAME : eil51_n7
+COMMENT : 7-city problem (Christofides/Eilon)
+TYPE : TSP
+DIMENSION : 7
+EDGE_WEIGHT_TYPE : CEIL_2D
+NODE_COORD_SECTION
+1 42 57
+2 7 38
+3 30 48
+4 45 35
+5 5 6
+6 56 37
+7 30 40
+EOF

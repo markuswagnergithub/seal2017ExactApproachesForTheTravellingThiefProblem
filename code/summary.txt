@@ -1,0 +1,486 @@
+./experiments/eil51_sub/eil51_n10_m45_multiple-strongly-corr_01.ttp	DP	tour: [1, 7, 9, 8, 2, 5, 6, 4, 10, 3, 1]	benefit: 1091.1274327119622	weight: 2029	profit: 4229	packingplan: [35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]	time:14.891
+./experiments/eil51_sub/eil51_n10_m45_multiple-strongly-corr_06.ttp	DP	tour: [1, 7, 8, 5, 6, 4, 10, 3, 2, 9, 1]	benefit: 6945.442754058555	weight: 11718	profit: 17418	packingplan: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]	time:183.203
+./experiments/eil51_sub/eil51_n10_m45_multiple-strongly-corr_10.ttp	DP	tour: [1, 7, 3, 10, 4, 6, 5, 8, 2, 9, 1]	benefit: 13554.730592810745	weight: 18054	profit: 26254	packingplan: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]	time:175.28
+./experiments/eil51_sub/eil51_n10_m45_uncorr-similar-weights_01.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 2, 8, 9, 7, 1]	benefit: 3009.553100479445	weight: 400310	profit: 3906	packingplan: [1, 2, 3, 4]	time:8.873
+./experiments/eil51_sub/eil51_n10_m45_uncorr-similar-weights_06.ttp	DP	tour: [1, 7, 3, 10, 4, 6, 5, 8, 2, 9, 1]	benefit: 9874.37904461937	weight: 2201033	profit: 15865	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]	time:17.2
+./experiments/eil51_sub/eil51_n10_m45_uncorr-similar-weights_10.ttp	DP	tour: [1, 7, 3, 10, 4, 6, 5, 8, 2, 9, 1]	benefit: 9254.518963823619	weight: 3101197	profit: 21801	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]	time:31.26
+./experiments/eil51_sub/eil51_n10_m45_uncorr_01.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 6009.431425533337	weight: 1538	profit: 9749	packingplan: [1, 2, 5, 6, 8, 11, 14, 17, 18, 22, 23, 26, 30]	time:6.388
+./experiments/eil51_sub/eil51_n10_m45_uncorr_06.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 10892.970728637909	weight: 8414	profit: 17814	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 20, 21, 24, 25, 27, 29, 30, 31, 34, 38, 43]	time:16.857
+./experiments/eil51_sub/eil51_n10_m45_uncorr_10.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 9235.06751228479	weight: 16150	profit: 19890	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, 28, 29, 30, 31, 34, 36, 41]	time:26.016
+./experiments/eil51_sub/eil51_n10_m90_multiple-strongly-corr_01.ttp	DP	tour: [1, 7, 9, 8, 2, 5, 6, 4, 10, 3, 1]	benefit: 1961.6257237929224	weight: 3280	profit: 8180	packingplan: [68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90]	time:104.578
+./experiments/eil51_sub/eil51_n10_m90_multiple-strongly-corr_06.ttp	DP	tour: [1, 7, 3, 10, 4, 6, 5, 8, 2, 9, 1]	benefit: 14017.806353221456	weight: 22794	profit: 33894	packingplan: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 34, 52, 56, 57, 58, 59, 60, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90]	time:1448.95
+./experiments/eil51_sub/eil51_n10_m90_multiple-strongly-corr_10.ttp	DP	tour: [1, 7, 3, 10, 4, 6, 5, 8, 2, 9, 1]	benefit: 27759.236582929847	weight: 39453	profit: 56453	packingplan: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90]	time:2105.75
+./experiments/eil51_sub/eil51_n10_m90_uncorr-similar-weights_01.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 2, 8, 9, 7, 1]	benefit: 5968.102053380643	weight: 800464	profit: 7745	packingplan: [1, 2, 3, 4, 5, 6, 7, 8]	time:29.942
+./experiments/eil51_sub/eil51_n10_m90_uncorr-similar-weights_06.ttp	DP	tour: [1, 7, 3, 10, 4, 6, 5, 8, 2, 9, 1]	benefit: 20607.269333302098	weight: 4502033	profit: 31533	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]	time:140.074
+./experiments/eil51_sub/eil51_n10_m90_uncorr-similar-weights_10.ttp	DP	tour: [1, 7, 3, 10, 4, 6, 5, 8, 2, 9, 1]	benefit: 18699.52055800761	weight: 6202681	profit: 42473	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62]	time:251.314
+./experiments/eil51_sub/eil51_n10_m90_uncorr_01.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 10337.190127664906	weight: 3393	profit: 15996	packingplan: [1, 2, 3, 5, 6, 10, 15, 17, 22, 23, 26, 27, 30, 31, 32, 33, 34, 36, 37, 40, 51, 56]	time:24.392
+./experiments/eil51_sub/eil51_n10_m90_uncorr_06.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 22195.993355845076	weight: 18805	profit: 35220	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 38, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 55, 56, 57, 58, 69, 74, 78, 84]	time:81.071
+./experiments/eil51_sub/eil51_n10_m90_uncorr_10.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 20332.15045887923	weight: 30257	profit: 42408	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 53, 56, 57, 58, 59, 60, 65, 69, 72, 74, 78, 81]	time:129.998
+./experiments/eil51_sub/eil51_n10_m9_multiple-strongly-corr_01.ttp	DP	tour: [1, 7, 9, 2, 8, 5, 6, 4, 10, 3, 1]	benefit: 573.8966450541625	weight: 747	profit: 1347	packingplan: [7, 8, 9]	time:1.214
+./experiments/eil51_sub/eil51_n10_m9_multiple-strongly-corr_06.ttp	DP	tour: [1, 7, 8, 2, 3, 10, 4, 6, 5, 9, 1]	benefit: 1434.4705446534776	weight: 2528	profit: 3728	packingplan: [2, 5, 6, 7, 8, 9]	time:2.389
+./experiments/eil51_sub/eil51_n10_m9_multiple-strongly-corr_10.ttp	DP	tour: [1, 7, 3, 10, 4, 6, 5, 8, 2, 9, 1]	benefit: 2313.077288532767	weight: 3497	profit: 5097	packingplan: [2, 3, 4, 5, 6, 7, 8, 9]	time:2.599
+./experiments/eil51_sub/eil51_n10_m9_uncorr-similar-weights_01.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 2, 8, 9, 7, 1]	benefit: 753.2302556577966	weight: 100045	profit: 955	packingplan: [1]	time:0.862
+./experiments/eil51_sub/eil51_n10_m9_uncorr-similar-weights_06.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 1463.7412651512182	weight: 400167	profit: 3151	packingplan: [1, 2, 3, 4]	time:1.272
+./experiments/eil51_sub/eil51_n10_m9_uncorr-similar-weights_10.ttp	DP	tour: [1, 7, 3, 10, 4, 6, 5, 8, 2, 9, 1]	benefit: 2058.839628935672	weight: 600199	profit: 4877	packingplan: [1, 2, 3, 4, 5, 6]	time:1.945
+./experiments/eil51_sub/eil51_n10_m9_uncorr_01.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 1125.7154544317905	weight: 786	profit: 2098	packingplan: [1, 3, 5]	time:0.933
+./experiments/eil51_sub/eil51_n10_m9_uncorr_06.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 1797.6560884811493	weight: 2228	profit: 3825	packingplan: [1, 2, 3, 4, 5]	time:1.282
+./experiments/eil51_sub/eil51_n10_m9_uncorr_10.ttp	DP	tour: [1, 3, 10, 4, 6, 5, 8, 2, 9, 7, 1]	benefit: 1504.2318295540013	weight: 3852	profit: 3594	packingplan: [1, 2, 3, 4, 5, 6]	time:1.382
+./experiments/eil51_sub/eil51_n11_m100_multiple-strongly-corr_01.ttp	DP	tour: [1, 2, 8, 7, 6, 10, 4, 9, 5, 3, 11, 1]	benefit: 2022.601433144299	weight: 3630	profit: 9030	packingplan: [64, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]	time:325.66
+./experiments/eil51_sub/eil51_n11_m100_multiple-strongly-corr_06.ttp	DP	tour: [1, 4, 6, 10, 9, 5, 3, 11, 2, 8, 7, 1]	benefit: 19301.524854427735	weight: 26366	profit: 39366	packingplan: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 60, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]	time:5620.391
+./experiments/eil51_sub/eil51_n11_m100_multiple-strongly-corr_10.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 2, 8, 7, 1]	benefit: 35968.05897895414	weight: 47015	profit: 66415	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 40, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]	time:7129.206
+./experiments/eil51_sub/eil51_n11_m100_uncorr-similar-weights_01.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 7075.686885138694	weight: 900522	profit: 8646	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9]	time:93.487
+./experiments/eil51_sub/eil51_n11_m100_uncorr-similar-weights_06.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 2, 8, 7, 1]	benefit: 25668.46162829522	weight: 5302377	profit: 36112	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 53, 54]	time:527.438
+./experiments/eil51_sub/eil51_n11_m100_uncorr-similar-weights_10.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 24379.282444883826	weight: 7003040	profit: 46586	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70]	time:617.404
+./experiments/eil51_sub/eil51_n11_m100_uncorr_01.ttp	DP	tour: [1, 11, 3, 5, 9, 4, 10, 6, 8, 2, 7, 1]	benefit: 12617.070268885771	weight: 4247	profit: 17840	packingplan: [1, 2, 3, 4, 7, 8, 12, 17, 19, 23, 24, 25, 26, 29, 30, 33, 34, 36, 37, 39, 40, 43, 55, 59]	time:50.183
+./experiments/eil51_sub/eil51_n11_m100_uncorr_06.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 2, 8, 7, 1]	benefit: 28264.375149752217	weight: 22634	profit: 40513	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 36, 37, 38, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 51, 53, 54, 56, 58, 59, 60, 63, 64, 65, 66, 70, 73, 77, 82, 87, 93]	time:320.723
+./experiments/eil51_sub/eil51_n11_m100_uncorr_10.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 25039.739634586986	weight: 34360	profit: 48461	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 62, 63, 64, 65, 67, 70, 72, 73, 76, 77, 80, 82, 86, 89]	time:371.631
+./experiments/eil51_sub/eil51_n11_m10_multiple-strongly-corr_01.ttp	DP	tour: [1, 2, 8, 6, 10, 4, 9, 5, 3, 11, 7, 1]	benefit: 728.4955019914222	weight: 980	profit: 1580	packingplan: [3, 9, 10]	time:3.198
+./experiments/eil51_sub/eil51_n11_m10_multiple-strongly-corr_06.ttp	DP	tour: [1, 8, 2, 11, 5, 9, 3, 6, 10, 4, 7, 1]	benefit: 1899.3359311547808	weight: 2736	profit: 4136	packingplan: [3, 5, 6, 7, 8, 9, 10]	time:7.202
+./experiments/eil51_sub/eil51_n11_m10_multiple-strongly-corr_10.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 2, 8, 7, 1]	benefit: 2929.4989812342237	weight: 4462	profit: 6262	packingplan: [1, 2, 3, 5, 6, 7, 8, 9, 10]	time:7.853
+./experiments/eil51_sub/eil51_n11_m10_uncorr-similar-weights_01.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 788.924258642129	weight: 100045	profit: 955	packingplan: [1]	time:1.626
+./experiments/eil51_sub/eil51_n11_m10_uncorr-similar-weights_06.ttp	DP	tour: [1, 11, 3, 5, 9, 4, 10, 6, 8, 2, 7, 1]	benefit: 2383.8228115186284	weight: 500191	profit: 3847	packingplan: [1, 2, 3, 4, 5]	time:3.572
+./experiments/eil51_sub/eil51_n11_m10_uncorr-similar-weights_10.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 2961.2142639006615	weight: 700265	profit: 5847	packingplan: [1, 2, 3, 4, 5, 6, 7]	time:4.849
+./experiments/eil51_sub/eil51_n11_m10_uncorr_01.ttp	DP	tour: [1, 11, 3, 5, 9, 4, 10, 6, 8, 2, 7, 1]	benefit: 1296.2326622521914	weight: 786	profit: 2098	packingplan: [1, 3, 5]	time:2.414
+./experiments/eil51_sub/eil51_n11_m10_uncorr_06.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 2110.703576279192	weight: 2582	profit: 4313	packingplan: [1, 2, 3, 4, 5, 6]	time:3.016
+./experiments/eil51_sub/eil51_n11_m10_uncorr_10.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 2430.4017491324344	weight: 5250	profit: 4679	packingplan: [1, 2, 3, 4, 5, 6, 7, 9]	time:4.35
+./experiments/eil51_sub/eil51_n11_m50_multiple-strongly-corr_01.ttp	DP	tour: [1, 2, 8, 7, 4, 6, 10, 9, 5, 3, 11, 1]	benefit: 1129.7819311970202	weight: 1916	profit: 4116	packingplan: [40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]	time:40.501
+./experiments/eil51_sub/eil51_n11_m50_multiple-strongly-corr_06.ttp	DP	tour: [1, 4, 6, 10, 9, 5, 3, 11, 2, 8, 7, 1]	benefit: 9870.192792303982	weight: 13493	profit: 19993	packingplan: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]	time:542.933
+./experiments/eil51_sub/eil51_n11_m50_multiple-strongly-corr_10.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 2, 8, 7, 1]	benefit: 17344.433053764325	weight: 22253	profit: 31653	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 20, 21, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]	time:657.895
+./experiments/eil51_sub/eil51_n11_m50_uncorr-similar-weights_01.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 2822.6076514726583	weight: 400310	profit: 3906	packingplan: [1, 2, 3, 4]	time:19.48
+./experiments/eil51_sub/eil51_n11_m50_uncorr-similar-weights_06.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 2, 8, 7, 1]	benefit: 13474.938391006795	weight: 2601188	profit: 18757	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]	time:49.752
+./experiments/eil51_sub/eil51_n11_m50_uncorr-similar-weights_10.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 12497.612341024782	weight: 3501365	profit: 24249	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]	time:103.907
+./experiments/eil51_sub/eil51_n11_m50_uncorr_01.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 8196.212479559508	weight: 1988	profit: 11465	packingplan: [1, 2, 3, 5, 6, 8, 11, 16, 17, 20, 21, 25, 26, 29, 34]	time:14.755
+./experiments/eil51_sub/eil51_n11_m50_uncorr_06.ttp	DP	tour: [1, 11, 3, 5, 9, 4, 10, 6, 7, 8, 2, 1]	benefit: 13997.353907724595	weight: 11227	profit: 20362	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 26, 27, 29, 31, 32, 33, 35, 38, 42, 48]	time:45.878
+./experiments/eil51_sub/eil51_n11_m50_uncorr_10.ttp	DP	tour: [1, 11, 3, 5, 9, 10, 6, 4, 7, 8, 2, 1]	benefit: 12190.697770875246	weight: 19318	profit: 22947	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34, 35, 38, 40, 45]	time:74.144
+./experiments/eil51_sub/eil51_n12_m110_multiple-strongly-corr_01.ttp	DP	tour: [1, 5, 12, 9, 3, 11, 10, 4, 8, 6, 2, 7, 1]	benefit: 2434.4554642518783	weight: 3954	profit: 9954	packingplan: [80, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110]	time:1178.048
+./experiments/eil51_sub/eil51_n12_m110_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3137513 exceeded memory limit (33569496 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3137513 ON r1n09 CANCELLED AT 2017-05-04T17:47:25 ***
+./experiments/eil51_sub/eil51_n12_m110_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3137520 exceeded memory limit (33734180 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3137520 ON r1n20 CANCELLED AT 2017-05-04T17:55:21 ***
+./experiments/eil51_sub/eil51_n12_m110_uncorr-similar-weights_01.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 7839.538417952062	weight: 1000485	profit: 9652	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]	time:245.893
+./experiments/eil51_sub/eil51_n12_m110_uncorr-similar-weights_06.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 5, 12, 1]	benefit: 30616.547926882107	weight: 5702571	profit: 40510	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]	time:1677.574
+./experiments/eil51_sub/eil51_n12_m110_uncorr-similar-weights_10.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 29577.52593093318	weight: 8003496	profit: 51433	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80]	time:1903.261
+./experiments/eil51_sub/eil51_n12_m110_uncorr_01.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 13589.145250807393	weight: 4604	profit: 18876	packingplan: [1, 2, 3, 4, 8, 10, 14, 20, 22, 27, 28, 29, 32, 33, 36, 37, 38, 40, 41, 43, 44, 47, 50, 60, 62, 65, 89]	time:146.273
+./experiments/eil51_sub/eil51_n12_m110_uncorr_06.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 32019.178685598545	weight: 25340	profit: 45099	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 39, 40, 42, 43, 44, 45, 46, 47, 49, 50, 51, 52, 53, 54, 55, 56, 58, 60, 61, 63, 65, 66, 67, 70, 71, 72, 73, 81, 85, 90, 96, 102]	time:963.762
+./experiments/eil51_sub/eil51_n12_m110_uncorr_10.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 30397.051596438225	weight: 37761	profit: 53595	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 74, 75, 78, 80, 81, 84, 85, 88, 90, 94, 97, 106]	time:1214.465
+./experiments/eil51_sub/eil51_n12_m11_multiple-strongly-corr_01.ttp	DP	tour: [1, 5, 12, 9, 3, 11, 4, 6, 2, 7, 8, 10, 1]	benefit: 648.5463119677361	weight: 788	profit: 1388	packingplan: [6, 10, 11]	time:4.579
+./experiments/eil51_sub/eil51_n12_m11_multiple-strongly-corr_06.ttp	DP	tour: [1, 5, 9, 3, 4, 6, 2, 7, 8, 10, 11, 12, 1]	benefit: 2413.6205710696363	weight: 2970	profit: 4370	packingplan: [2, 5, 6, 8, 9, 10, 11]	time:18.71
+./experiments/eil51_sub/eil51_n12_m11_multiple-strongly-corr_10.ttp	DP	tour: [1, 7, 2, 6, 8, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 3209.20606408789	weight: 4640	profit: 6440	packingplan: [1, 2, 3, 4, 6, 7, 9, 10, 11]	time:17.163
+./experiments/eil51_sub/eil51_n12_m11_uncorr-similar-weights_01.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 774.1074309873165	weight: 100045	profit: 955	packingplan: [1]	time:3.363
+./experiments/eil51_sub/eil51_n12_m11_uncorr-similar-weights_06.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 5, 12, 1]	benefit: 3168.7018293166548	weight: 600218	profit: 4386	packingplan: [1, 2, 3, 4, 5, 6]	time:6.777
+./experiments/eil51_sub/eil51_n12_m11_uncorr-similar-weights_10.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 3638.2692688606257	weight: 800347	profit: 6547	packingplan: [1, 2, 3, 4, 5, 6, 7, 8]	time:8.576
+./experiments/eil51_sub/eil51_n12_m11_uncorr_01.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 1717.699462621892	weight: 795	profit: 2889	packingplan: [1, 3, 4, 6]	time:3.938
+./experiments/eil51_sub/eil51_n12_m11_uncorr_06.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 2774.5992361381977	weight: 2936	profit: 5126	packingplan: [1, 2, 3, 4, 5, 6, 7]	time:5.182
+./experiments/eil51_sub/eil51_n12_m11_uncorr_10.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 2732.8190947872413	weight: 5522	profit: 4844	packingplan: [1, 2, 3, 4, 5, 6, 7, 8]	time:10.333
+./experiments/eil51_sub/eil51_n12_m55_multiple-strongly-corr_01.ttp	DP	tour: [1, 5, 12, 9, 3, 11, 10, 4, 8, 6, 2, 7, 1]	benefit: 1251.779500282964	weight: 2234	profit: 4834	packingplan: [43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]	time:117.989
+./experiments/eil51_sub/eil51_n12_m55_multiple-strongly-corr_06.ttp	DP	tour: [1, 5, 9, 3, 4, 6, 2, 7, 8, 10, 11, 12, 1]	benefit: 10908.789689745428	weight: 13983	profit: 21583	packingplan: [6, 7, 8, 9, 10, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]	time:1997.231
+./experiments/eil51_sub/eil51_n12_m55_multiple-strongly-corr_10.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 19361.97890278414	weight: 24742	profit: 35042	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]	time:2762.471
+./experiments/eil51_sub/eil51_n12_m55_uncorr-similar-weights_01.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 5, 12, 1]	benefit: 3734.894563558352	weight: 500247	profit: 4648	packingplan: [1, 4, 5, 6, 9]	time:38.358
+./experiments/eil51_sub/eil51_n12_m55_uncorr-similar-weights_06.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 15185.916669033375	weight: 2801262	profit: 19883	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]	time:145.75
+./experiments/eil51_sub/eil51_n12_m55_uncorr-similar-weights_10.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 15114.709598634205	weight: 4001677	profit: 26733	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]	time:282.824
+./experiments/eil51_sub/eil51_n12_m55_uncorr_01.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 8838.012289498643	weight: 2179	profit: 12525	packingplan: [1, 2, 3, 5, 6, 8, 11, 16, 17, 20, 21, 23, 26, 27, 30, 36, 40]	time:35.794
+./experiments/eil51_sub/eil51_n12_m55_uncorr_06.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 16334.302791446824	weight: 12268	profit: 22468	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 28, 29, 31, 33, 34, 35, 40, 44, 50]	time:115.261
+./experiments/eil51_sub/eil51_n12_m55_uncorr_10.ttp	DP	tour: [1, 8, 7, 2, 6, 4, 10, 11, 3, 9, 12, 5, 1]	benefit: 14593.046606141945	weight: 20614	profit: 25959	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 37, 38, 39, 40, 43, 45, 50]	time:200.181
+./experiments/eil51_sub/eil51_n13_m120_multiple-strongly-corr_01.ttp	Exception in thread "main" java.lang.ClassFormatError: Truncated class file
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at ttp.dp.TourDP.initiallyBest(TourDP.java:69)
+	at ttp.dp.TourDP.<init>(TourDP.java:58)
+	at nkp.experiment.DpExp.experimentDp(DpExp.java:142)
+	at nkp.experiment.DpExp.main(DpExp.java:36)
+./experiments/eil51_sub/eil51_n13_m120_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3137732 exceeded memory limit (33593792 > 33554432), being killed
+slurmstepd: error: *** JOB 3137732 ON r4n21 CANCELLED AT 2017-05-04T18:11:49 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n13_m120_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3137738 exceeded memory limit (33616328 > 33554432), being killed
+slurmstepd: error: *** JOB 3137738 ON r4n21 CANCELLED AT 2017-05-04T17:47:50 ***
+./experiments/eil51_sub/eil51_n13_m120_uncorr-similar-weights_01.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 7052.153748583305	weight: 1000485	profit: 9652	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]	time:754.751
+./experiments/eil51_sub/eil51_n13_m120_uncorr-similar-weights_06.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 28590.406224375776	weight: 5902692	profit: 43527	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]	time:4789.21
+./experiments/eil51_sub/eil51_n13_m120_uncorr-similar-weights_10.ttp	DP	tour: [1, 12, 5, 11, 8, 9, 3, 7, 2, 13, 10, 6, 4, 1]	benefit: 24304.57291469245	weight: 8003696	profit: 53694	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80]	time:6084.344
+./experiments/eil51_sub/eil51_n13_m120_uncorr_01.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 11994.218674976099	weight: 4660	profit: 19334	packingplan: [1, 2, 3, 4, 5, 9, 11, 15, 21, 23, 29, 30, 31, 34, 35, 38, 39, 41, 43, 44, 46, 47, 51, 65, 68, 70, 95]	time:431.565
+./experiments/eil51_sub/eil51_n13_m120_uncorr_06.ttp	DP	tour: [1, 8, 12, 5, 11, 3, 9, 7, 2, 13, 10, 6, 4, 1]	benefit: 29024.34745295362	weight: 26279	profit: 46798	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 40, 42, 43, 45, 47, 48, 49, 50, 51, 53, 54, 55, 56, 57, 58, 59, 63, 65, 66, 68, 71, 72, 74, 77, 78, 79, 80, 93, 98, 103, 105, 112]	time:3095.647
+./experiments/eil51_sub/eil51_n13_m120_uncorr_10.ttp	DP	tour: [1, 12, 5, 8, 11, 3, 9, 7, 2, 13, 10, 6, 4, 1]	benefit: 25500.132461917252	weight: 37879	profit: 56239	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 69, 71, 73, 74, 75, 76, 78, 79, 80, 84, 86, 90, 91, 93, 95, 96, 102, 106, 114]	time:3774.436
+./experiments/eil51_sub/eil51_n13_m12_multiple-strongly-corr_01.ttp	DP	tour: [1, 4, 6, 10, 13, 2, 7, 9, 3, 5, 12, 11, 8, 1]	benefit: 657.8203534074698	weight: 869	profit: 1469	packingplan: [9, 10, 12]	time:7.619
+./experiments/eil51_sub/eil51_n13_m12_multiple-strongly-corr_06.ttp	DP	tour: [1, 12, 5, 8, 11, 3, 9, 7, 2, 13, 10, 6, 4, 1]	benefit: 1622.4229580370938	weight: 2957	profit: 4357	packingplan: [1, 2, 8, 9, 10, 11, 12]	time:33.281
+./experiments/eil51_sub/eil51_n13_m12_multiple-strongly-corr_10.ttp	DP	tour: [1, 12, 5, 8, 11, 3, 9, 7, 2, 13, 10, 6, 4, 1]	benefit: 2799.502173921454	weight: 4553	profit: 6553	packingplan: [1, 2, 3, 5, 6, 8, 9, 10, 11, 12]	time:37.572
+./experiments/eil51_sub/eil51_n13_m12_uncorr-similar-weights_01.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 696.5166369133314	weight: 100045	profit: 955	packingplan: [1]	time:12.445
+./experiments/eil51_sub/eil51_n13_m12_uncorr-similar-weights_06.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 2443.940140162009	weight: 600218	profit: 4386	packingplan: [1, 2, 3, 4, 5, 6]	time:23.512
+./experiments/eil51_sub/eil51_n13_m12_uncorr-similar-weights_10.ttp	DP	tour: [1, 12, 5, 11, 8, 9, 3, 7, 2, 13, 10, 6, 4, 1]	benefit: 2264.687321704138	weight: 800395	profit: 6817	packingplan: [1, 2, 3, 4, 5, 6, 7, 8]	time:52.043
+./experiments/eil51_sub/eil51_n13_m12_uncorr_01.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 1611.8837209052797	weight: 795	profit: 2889	packingplan: [1, 3, 4, 6]	time:14.217
+./experiments/eil51_sub/eil51_n13_m12_uncorr_06.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 9, 3, 2, 13, 10, 6, 4, 1]	benefit: 2363.714872623789	weight: 2953	profit: 5519	packingplan: [1, 2, 3, 4, 5, 6, 7, 8]	time:19.584
+./experiments/eil51_sub/eil51_n13_m12_uncorr_10.ttp	DP	tour: [1, 12, 5, 11, 8, 9, 3, 7, 2, 13, 10, 6, 4, 1]	benefit: 2138.4174904097536	weight: 5950	profit: 5062	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 10]	time:44.843
+./experiments/eil51_sub/eil51_n13_m60_multiple-strongly-corr_01.ttp	DP	tour: [1, 4, 6, 10, 13, 2, 9, 3, 7, 8, 11, 5, 12, 1]	benefit: 1092.5370453024357	weight: 2508	profit: 5608	packingplan: [46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]	time:892.271
+./experiments/eil51_sub/eil51_n13_m60_multiple-strongly-corr_06.ttp	DP	tour: [1, 8, 12, 5, 11, 3, 9, 7, 2, 13, 10, 6, 4, 1]	benefit: 8108.802187487689	weight: 14476	profit: 21576	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 36, 37, 38, 39, 40, 43, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]	time:14080.909
+./experiments/eil51_sub/eil51_n13_m60_multiple-strongly-corr_10.ttp	DP	tour: [1, 12, 5, 8, 11, 3, 9, 7, 2, 13, 10, 6, 4, 1]	benefit: 16392.804087961104	weight: 26028	profit: 36628	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 34, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]	time:18226.157
+./experiments/eil51_sub/eil51_n13_m60_uncorr-similar-weights_01.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 3577.1574266763064	weight: 500320	profit: 4894	packingplan: [1, 2, 3, 4, 5]	time:95.14
+./experiments/eil51_sub/eil51_n13_m60_uncorr-similar-weights_06.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 13273.85054161368	weight: 2901287	profit: 20677	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]	time:455.393
+./experiments/eil51_sub/eil51_n13_m60_uncorr-similar-weights_10.ttp	DP	tour: [1, 12, 5, 11, 8, 9, 3, 7, 2, 13, 10, 6, 4, 1]	benefit: 12002.976779233344	weight: 4001769	profit: 28273	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]	time:908.407
+./experiments/eil51_sub/eil51_n13_m60_uncorr_01.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 8319.132612091238	weight: 2276	profit: 12813	packingplan: [1, 2, 3, 5, 6, 8, 12, 17, 18, 21, 22, 23, 25, 28, 29, 32, 39]	time:72.442
+./experiments/eil51_sub/eil51_n13_m60_uncorr_06.ttp	DP	tour: [1, 12, 5, 11, 8, 7, 3, 9, 2, 13, 10, 6, 4, 1]	benefit: 14959.881469084288	weight: 12390	profit: 23296	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 28, 29, 30, 32, 34, 36, 37, 38, 43, 45, 49, 55]	time:382.762
+./experiments/eil51_sub/eil51_n13_m60_uncorr_10.ttp	DP	tour: [1, 12, 5, 8, 11, 3, 9, 7, 2, 13, 10, 6, 4, 1]	benefit: 13129.152974966713	weight: 21616	profit: 27673	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 36, 37, 38, 39, 40, 41, 43, 46, 48, 51, 54]	time:559.781
+./experiments/eil51_sub/eil51_n14_m130_multiple-strongly-corr_01.ttp	DP	tour: [1, 6, 11, 14, 7, 5, 2, 13, 4, 8, 10, 9, 3, 12, 1]	benefit: 1546.8707794119193	weight: 4999	profit: 12399	packingplan: [82, 94, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130]	time:9118.449
+./experiments/eil51_sub/eil51_n14_m130_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3137898 exceeded memory limit (33792968 > 33554432), being killed
+slurmstepd: error: *** JOB 3137898 ON r3n02 CANCELLED AT 2017-05-04T17:45:53 ***
+./experiments/eil51_sub/eil51_n14_m130_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3137901 exceeded memory limit (33611992 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3137901 ON r3n22 CANCELLED AT 2017-05-04T18:04:23 ***
+./experiments/eil51_sub/eil51_n14_m130_uncorr-similar-weights_01.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 7, 5, 14, 11, 6, 1]	benefit: 8130.5644948864365	weight: 1100507	profit: 10636	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	time:2372.382
+./experiments/eil51_sub/eil51_n14_m130_uncorr-similar-weights_06.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 6, 11, 1]	benefit: 34710.02673860923	weight: 6702973	profit: 49048	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67]	time:15127.345
+./experiments/eil51_sub/eil51_n14_m130_uncorr-similar-weights_10.ttp	slurmstepd: error: *** JOB 3137908 ON r3n15 CANCELLED AT 2017-05-05T04:56:01 DUE TO TIME LIMIT ***
+./experiments/eil51_sub/eil51_n14_m130_uncorr_01.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 14839.70742807432	weight: 5614	profit: 21957	packingplan: [1, 2, 3, 4, 5, 7, 11, 13, 14, 18, 24, 26, 29, 33, 34, 35, 39, 40, 43, 44, 46, 48, 49, 51, 52, 57, 72, 75, 78, 104]	time:1413.633
+./experiments/eil51_sub/eil51_n14_m130_uncorr_06.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 35663.83301222094	weight: 30397	profit: 52436	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 50, 52, 53, 54, 55, 56, 58, 59, 60, 61, 62, 63, 64, 65, 69, 72, 73, 75, 80, 81, 83, 86, 87, 88, 89, 98, 102, 103, 108, 113, 115, 122]	time:10640.193
+./experiments/eil51_sub/eil51_n14_m130_uncorr_10.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 30021.65473307597	weight: 41010	profit: 61059	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 73, 76, 78, 79, 80, 81, 82, 84, 85, 88, 89, 91, 92, 95, 96, 97, 99, 101, 102, 103, 104, 112, 116, 124]	time:11748.584
+./experiments/eil51_sub/eil51_n14_m13_multiple-strongly-corr_01.ttp	DP	tour: [1, 6, 11, 5, 7, 14, 13, 2, 8, 10, 9, 3, 4, 12, 1]	benefit: 623.0035253967797	weight: 899	profit: 1499	packingplan: [8, 11, 13]	time:16.034
+./experiments/eil51_sub/eil51_n14_m13_multiple-strongly-corr_06.ttp	DP	tour: [1, 13, 14, 7, 5, 2, 8, 10, 4, 12, 3, 9, 6, 11, 1]	benefit: 2182.4698993731663	weight: 3310	profit: 4910	packingplan: [1, 2, 8, 9, 10, 11, 12, 13]	time:74.303
+./experiments/eil51_sub/eil51_n14_m13_multiple-strongly-corr_10.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 6, 11, 1]	benefit: 3716.254624552082	weight: 5531	profit: 7731	packingplan: [1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13]	time:103.457
+./experiments/eil51_sub/eil51_n14_m13_uncorr-similar-weights_01.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 7, 5, 14, 11, 6, 1]	benefit: 663.5118548858983	weight: 100045	profit: 955	packingplan: [1]	time:10.33
+./experiments/eil51_sub/eil51_n14_m13_uncorr-similar-weights_06.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 6, 11, 1]	benefit: 3631.573070497941	weight: 700270	profit: 5324	packingplan: [1, 2, 3, 4, 5, 6, 7]	time:27.427
+./experiments/eil51_sub/eil51_n14_m13_uncorr-similar-weights_10.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 3114.3033127639437	weight: 900437	profit: 7398	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9]	time:40.694
+./experiments/eil51_sub/eil51_n14_m13_uncorr_01.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 2524.795088706841	weight: 917	profit: 3556	packingplan: [1, 3, 4, 5, 7]	time:13.408
+./experiments/eil51_sub/eil51_n14_m13_uncorr_06.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 4020.616257271008	weight: 2953	profit: 5519	packingplan: [1, 2, 3, 4, 5, 6, 7, 8]	time:21.21
+./experiments/eil51_sub/eil51_n14_m13_uncorr_10.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 2751.495277575731	weight: 6054	profit: 5735	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9]	time:31.812
+./experiments/eil51_sub/eil51_n14_m65_multiple-strongly-corr_01.ttp	DP	tour: [1, 6, 11, 14, 7, 5, 2, 13, 4, 8, 10, 9, 3, 12, 1]	benefit: 792.7938803696934	weight: 2772	profit: 6072	packingplan: [50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]	time:1054.986
+./experiments/eil51_sub/eil51_n14_m65_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3137930 exceeded memory limit (33625044 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3137930 ON r4n07 CANCELLED AT 2017-05-04T18:20:37 ***
+./experiments/eil51_sub/eil51_n14_m65_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3137935 exceeded memory limit (33803408 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3137935 ON r2n38 CANCELLED AT 2017-05-04T18:31:09 ***
+./experiments/eil51_sub/eil51_n14_m65_uncorr-similar-weights_01.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 3398.571765640968	weight: 500320	profit: 4894	packingplan: [1, 2, 3, 4, 5]	time:247.665
+./experiments/eil51_sub/eil51_n14_m65_uncorr-similar-weights_06.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 6, 11, 1]	benefit: 16213.843390653086	weight: 3301475	profit: 22706	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]	time:1319.714
+./experiments/eil51_sub/eil51_n14_m65_uncorr-similar-weights_10.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 14741.82152763207	weight: 4501899	profit: 31297	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]	time:2687.17
+./experiments/eil51_sub/eil51_n14_m65_uncorr_01.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 10446.363098954545	weight: 2511	profit: 14032	packingplan: [1, 2, 3, 5, 6, 8, 11, 13, 18, 19, 22, 23, 24, 26, 29, 30, 33, 41, 45]	time:219.654
+./experiments/eil51_sub/eil51_n14_m65_uncorr_06.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 17046.94774184912	weight: 13906	profit: 25213	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 28, 29, 30, 31, 33, 34, 36, 37, 40, 41, 42, 49, 53, 56, 60]	time:1178.81
+./experiments/eil51_sub/eil51_n14_m65_uncorr_10.ttp	DP	tour: [1, 12, 3, 9, 10, 8, 4, 13, 2, 5, 7, 14, 11, 6, 1]	benefit: 15210.861512340536	weight: 24340	profit: 30570	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 43, 44, 45, 46, 49, 51, 55, 58]	time:1844.932
+./experiments/eil51_sub/eil51_n15_m140_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3137948 exceeded memory limit (33663848 > 33554432), being killed
+slurmstepd: error: *** JOB 3137948 ON r3n02 CANCELLED AT 2017-05-04T18:59:42 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n15_m140_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3137949 exceeded memory limit (33735836 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3137949 ON r3n02 CANCELLED AT 2017-05-04T18:27:12 ***
+./experiments/eil51_sub/eil51_n15_m140_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3137950 exceeded memory limit (33572828 > 33554432), being killed
+slurmstepd: error: *** JOB 3137950 ON r4n17 CANCELLED AT 2017-05-04T18:31:11 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n15_m140_uncorr-similar-weights_01.ttp	DP	tour: [1, 3, 15, 9, 4, 11, 2, 8, 7, 14, 6, 12, 13, 10, 5, 1]	benefit: 9250.558059655446	weight: 1200593	profit: 11575	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]	time:7266.361
+./experiments/eil51_sub/eil51_n15_m140_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3137952 exceeded memory limit (33594464 > 33554432), being killed
+slurmstepd: error: *** JOB 3137952 ON r2n17 CANCELLED AT 2017-05-04T21:41:42 ***
+./experiments/eil51_sub/eil51_n15_m140_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3137955 exceeded memory limit (33573596 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3137955 ON r3n09 CANCELLED AT 2017-05-04T21:26:10 ***
+./experiments/eil51_sub/eil51_n15_m140_uncorr_01.ttp	DP	tour: [1, 3, 15, 9, 4, 11, 2, 8, 7, 14, 6, 12, 13, 10, 5, 1]	benefit: 16283.500270762546	weight: 6020	profit: 23853	packingplan: [1, 2, 3, 4, 5, 6, 7, 12, 15, 16, 21, 24, 28, 30, 33, 37, 38, 39, 43, 44, 47, 48, 52, 53, 55, 56, 58, 59, 64, 79, 84, 111]	time:4083.141
+./experiments/eil51_sub/eil51_n15_m140_uncorr_06.ttp	slurmstepd: error: Job 3137961 exceeded memory limit (33658512 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3137961 ON r2n22 CANCELLED AT 2017-05-04T20:16:10 ***
+./experiments/eil51_sub/eil51_n15_m140_uncorr_10.ttp	slurmstepd: error: Job 3137963 exceeded memory limit (33577388 > 33554432), being killed
+slurmstepd: error: *** JOB 3137963 ON r1n27 CANCELLED AT 2017-05-04T20:17:11 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n15_m14_multiple-strongly-corr_01.ttp	DP	tour: [1, 5, 11, 2, 8, 7, 14, 6, 12, 13, 10, 15, 9, 4, 3, 1]	benefit: 547.4192490909447	weight: 869	profit: 1469	packingplan: [11, 12, 14]	time:39.821
+./experiments/eil51_sub/eil51_n15_m14_multiple-strongly-corr_06.ttp	DP	tour: [1, 7, 14, 6, 12, 13, 15, 9, 3, 4, 11, 2, 8, 5, 10, 1]	benefit: 1977.7763089998066	weight: 3574	profit: 5474	packingplan: [1, 2, 8, 9, 10, 11, 12, 13, 14]	time:209.852
+./experiments/eil51_sub/eil51_n15_m14_multiple-strongly-corr_10.ttp	DP	tour: [1, 6, 12, 15, 9, 3, 4, 11, 2, 8, 7, 14, 13, 10, 5, 1]	benefit: 3571.1383299048903	weight: 5238	profit: 7738	packingplan: [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14]	time:268.371
+./experiments/eil51_sub/eil51_n15_m14_uncorr-similar-weights_01.ttp	DP	tour: [1, 3, 15, 9, 4, 11, 2, 8, 7, 14, 6, 12, 13, 10, 5, 1]	benefit: 637.4188854779683	weight: 100045	profit: 955	packingplan: [1]	time:16.351
+./experiments/eil51_sub/eil51_n15_m14_uncorr-similar-weights_06.ttp	DP	tour: [1, 8, 2, 11, 4, 3, 9, 15, 12, 6, 7, 14, 13, 10, 5, 1]	benefit: 2847.4072928301575	weight: 700270	profit: 5324	packingplan: [1, 2, 3, 4, 5, 6, 7]	time:60.718
+./experiments/eil51_sub/eil51_n15_m14_uncorr-similar-weights_10.ttp	DP	tour: [1, 3, 4, 9, 15, 12, 6, 13, 10, 14, 7, 8, 11, 2, 5, 1]	benefit: 2750.5154112779146	weight: 1000527	profit: 7930	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]	time:97.365
+./experiments/eil51_sub/eil51_n15_m14_uncorr_01.ttp	DP	tour: [1, 3, 4, 9, 15, 10, 13, 12, 6, 14, 7, 8, 2, 11, 5, 1]	benefit: 2392.99629647606	weight: 941	profit: 3927	packingplan: [1, 3, 4, 6, 8, 10]	time:89.461
+./experiments/eil51_sub/eil51_n15_m14_uncorr_06.ttp	DP	tour: [1, 3, 15, 9, 4, 11, 2, 8, 7, 14, 6, 12, 13, 10, 5, 1]	benefit: 2844.6633075770687	weight: 3011	profit: 5783	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 10]	time:55.074
+./experiments/eil51_sub/eil51_n15_m14_uncorr_10.ttp	DP	tour: [1, 11, 4, 3, 9, 15, 12, 6, 14, 7, 8, 2, 5, 13, 10, 1]	benefit: 2761.2954704764484	weight: 6630	profit: 6091	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 13]	time:84.679
+./experiments/eil51_sub/eil51_n15_m70_multiple-strongly-corr_01.ttp	DP	tour: [1, 5, 10, 13, 12, 6, 14, 7, 8, 2, 11, 4, 9, 15, 3, 1]	benefit: 920.371795849736	weight: 2907	profit: 6407	packingplan: [54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70]	time:3984.287
+./experiments/eil51_sub/eil51_n15_m70_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3137992 exceeded memory limit (33575756 > 33554432), being killed
+slurmstepd: error: *** JOB 3137992 ON r2n18 CANCELLED AT 2017-05-04T18:33:28 ***
+./experiments/eil51_sub/eil51_n15_m70_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3137994 exceeded memory limit (33666552 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3137994 ON r2n22 CANCELLED AT 2017-05-04T18:31:23 ***
+./experiments/eil51_sub/eil51_n15_m70_uncorr-similar-weights_01.ttp	DP	tour: [1, 3, 15, 9, 4, 11, 2, 8, 7, 14, 6, 12, 13, 10, 5, 1]	benefit: 4659.62308344135	weight: 600344	profit: 5830	packingplan: [1, 2, 3, 4, 5, 6]	time:867.778
+./experiments/eil51_sub/eil51_n15_m70_uncorr-similar-weights_06.ttp	DP	tour: [1, 8, 2, 11, 4, 3, 9, 15, 12, 6, 7, 14, 13, 10, 5, 1]	benefit: 15999.880616910463	weight: 3501667	profit: 24617	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]	time:4777.152
+./experiments/eil51_sub/eil51_n15_m70_uncorr-similar-weights_10.ttp	DP	tour: [1, 3, 4, 9, 15, 12, 6, 13, 10, 14, 7, 8, 11, 2, 5, 1]	benefit: 13566.4551984521	weight: 5002117	profit: 34041	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]	time:7949.257
+./experiments/eil51_sub/eil51_n15_m70_uncorr_01.ttp	DP	tour: [1, 2, 11, 4, 3, 9, 15, 12, 6, 13, 10, 14, 7, 8, 5, 1]	benefit: 9922.13703526859	weight: 2932	profit: 14759	packingplan: [1, 2, 3, 5, 6, 8, 13, 15, 20, 21, 24, 25, 27, 29, 30, 32, 33, 36, 38, 44]	time:740.219
+./experiments/eil51_sub/eil51_n15_m70_uncorr_06.ttp	DP	tour: [1, 3, 15, 9, 4, 11, 2, 8, 7, 14, 6, 12, 13, 10, 5, 1]	benefit: 16404.498587707516	weight: 14939	profit: 26362	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 28, 30, 31, 32, 33, 35, 36, 38, 39, 42, 43, 44, 50, 54, 58, 61, 65]	time:6978.524
+./experiments/eil51_sub/eil51_n15_m70_uncorr_10.ttp	DP	tour: [1, 3, 15, 9, 4, 11, 2, 8, 7, 14, 6, 12, 13, 10, 5, 1]	benefit: 14549.83042645952	weight: 23767	profit: 32790	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 44, 45, 49, 51, 54, 60, 63]	time:5724.865
+./experiments/eil51_sub/eil51_n16_m150_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138013 exceeded memory limit (33625808 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138013 ON r4n24 CANCELLED AT 2017-05-04T19:04:17 ***
+./experiments/eil51_sub/eil51_n16_m150_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138014 exceeded memory limit (33619420 > 33554432), being killed
+slurmstepd: error: *** JOB 3138014 ON r3n02 CANCELLED AT 2017-05-04T18:35:13 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n16_m150_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138017 exceeded memory limit (33720072 > 33554432), being killed
+slurmstepd: error: *** JOB 3138017 ON r4n15 CANCELLED AT 2017-05-04T18:44:38 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n16_m150_uncorr-similar-weights_01.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 3, 13, 16, 9, 6, 5, 14, 8, 1]	benefit: 9311.546653477844	weight: 1300713	profit: 12646	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]	time:21385.117
+./experiments/eil51_sub/eil51_n16_m150_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3138019 exceeded memory limit (33571236 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138019 ON r4n21 CANCELLED AT 2017-05-04T21:14:28 ***
+./experiments/eil51_sub/eil51_n16_m150_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138020 exceeded memory limit (33665064 > 33554432), being killed
+slurmstepd: error: *** JOB 3138020 ON r4n05 CANCELLED AT 2017-05-04T21:00:52 ***
+./experiments/eil51_sub/eil51_n16_m150_uncorr_01.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 3, 5, 8, 14, 6, 16, 13, 9, 1]	benefit: 17833.51945184133	weight: 6524	profit: 26327	packingplan: [1, 2, 3, 4, 5, 6, 13, 17, 18, 19, 23, 25, 32, 34, 37, 41, 42, 43, 47, 48, 51, 52, 54, 56, 57, 59, 60, 62, 63, 64, 68, 83, 85, 86, 89, 98, 121]	time:12753.371
+./experiments/eil51_sub/eil51_n16_m150_uncorr_06.ttp	slurmstepd: error: Job 3138025 exceeded memory limit (33579700 > 33554432), being killed
+slurmstepd: error: *** JOB 3138025 ON r4n23 CANCELLED AT 2017-05-04T20:14:30 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n16_m150_uncorr_10.ttp	slurmstepd: error: Job 3138028 exceeded memory limit (33576116 > 33554432), being killed
+slurmstepd: error: *** JOB 3138028 ON r4n17 CANCELLED AT 2017-05-04T20:18:52 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n16_m15_multiple-strongly-corr_01.ttp	DP	tour: [1, 8, 14, 5, 6, 16, 13, 3, 2, 4, 11, 12, 10, 15, 7, 9, 1]	benefit: 794.744721857785	weight: 987	profit: 1787	packingplan: [5, 13, 14, 15]	time:105.456
+./experiments/eil51_sub/eil51_n16_m15_multiple-strongly-corr_06.ttp	DP	tour: [1, 6, 5, 14, 8, 7, 15, 10, 12, 11, 4, 2, 3, 13, 16, 9, 1]	benefit: 2884.0319788010183	weight: 3779	profit: 5879	packingplan: [5, 6, 7, 8, 9, 10, 12, 13, 14, 15]	time:3928.852
+./experiments/eil51_sub/eil51_n16_m15_multiple-strongly-corr_10.ttp	DP	tour: [1, 8, 7, 15, 10, 12, 11, 4, 2, 3, 13, 16, 5, 14, 6, 9, 1]	benefit: 4498.84841263716	weight: 6215	profit: 9115	packingplan: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]	time:623.362
+./experiments/eil51_sub/eil51_n16_m15_uncorr-similar-weights_01.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 3, 13, 16, 9, 6, 5, 14, 8, 1]	benefit: 540.8974401008827	weight: 100045	profit: 955	packingplan: [1]	time:36.425
+./experiments/eil51_sub/eil51_n16_m15_uncorr-similar-weights_06.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 5, 8, 14, 6, 3, 13, 16, 9, 1]	benefit: 4106.306550608112	weight: 800346	profit: 6175	packingplan: [1, 2, 3, 4, 5, 6, 7, 8]	time:152.264
+./experiments/eil51_sub/eil51_n16_m15_uncorr-similar-weights_10.ttp	DP	tour: [1, 7, 15, 10, 12, 2, 11, 4, 5, 8, 14, 6, 16, 3, 13, 9, 1]	benefit: 3948.211330696783	weight: 1100557	profit: 8423	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	time:245.375
+./experiments/eil51_sub/eil51_n16_m15_uncorr_01.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 5, 14, 8, 6, 16, 3, 13, 9, 1]	benefit: 2490.888544025131	weight: 916	profit: 3668	packingplan: [3, 4, 5, 6, 7, 8]	time:59.526
+./experiments/eil51_sub/eil51_n16_m15_uncorr_06.ttp	DP	tour: [1, 7, 15, 10, 3, 2, 12, 11, 4, 5, 8, 14, 6, 16, 13, 9, 1]	benefit: 3275.9906933362076	weight: 3011	profit: 5783	packingplan: [1, 2, 3, 4, 5, 6, 7, 9, 11]	time:138.509
+./experiments/eil51_sub/eil51_n16_m15_uncorr_10.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 3, 5, 8, 14, 6, 16, 13, 9, 1]	benefit: 3601.0772294536473	weight: 7123	profit: 6522	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14]	time:211.511
+./experiments/eil51_sub/eil51_n16_m75_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138045 exceeded memory limit (33614532 > 33554432), being killed
+slurmstepd: error: *** JOB 3138045 ON r1n30 CANCELLED AT 2017-05-04T19:57:39 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n16_m75_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138046 exceeded memory limit (33586952 > 33554432), being killed
+slurmstepd: error: *** JOB 3138046 ON r2n18 CANCELLED AT 2017-05-04T19:06:01 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n16_m75_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138047 exceeded memory limit (33747780 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138047 ON r3n22 CANCELLED AT 2017-05-04T19:11:26 ***
+./experiments/eil51_sub/eil51_n16_m75_uncorr-similar-weights_01.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 3, 13, 16, 9, 6, 5, 14, 8, 1]	benefit: 3941.085999678675	weight: 600344	profit: 5830	packingplan: [1, 2, 3, 4, 5, 6]	time:2124.065
+./experiments/eil51_sub/eil51_n16_m75_uncorr-similar-weights_06.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 3, 5, 8, 14, 6, 16, 13, 9, 1]	benefit: 18542.413113942952	weight: 3901776	profit: 27300	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]	time:14503.236
+./experiments/eil51_sub/eil51_n16_m75_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138054 exceeded memory limit (33608820 > 33554432), being killed
+slurmstepd: error: *** JOB 3138054 ON r4n24 CANCELLED AT 2017-05-04T21:34:40 ***
+./experiments/eil51_sub/eil51_n16_m75_uncorr_01.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 3, 5, 14, 8, 6, 16, 13, 9, 1]	benefit: 10245.231151072418	weight: 3132	profit: 15314	packingplan: [1, 2, 3, 5, 6, 8, 13, 15, 20, 21, 24, 25, 27, 28, 29, 30, 32, 33, 36, 45, 49]	time:1574.968
+./experiments/eil51_sub/eil51_n16_m75_uncorr_06.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 3, 5, 8, 14, 6, 16, 13, 9, 1]	benefit: 19822.709379510234	weight: 17768	profit: 29610	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 38, 40, 41, 44, 45, 46, 56, 60, 64, 70]	time:11109.978
+./experiments/eil51_sub/eil51_n16_m75_uncorr_10.ttp	DP	tour: [1, 7, 15, 10, 12, 11, 4, 2, 3, 5, 8, 14, 6, 16, 13, 9, 1]	benefit: 19482.420866351335	weight: 29165	profit: 36527	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48, 49, 51, 53, 54, 55, 58, 60, 64, 67]	time:15553.917
+./experiments/eil51_sub/eil51_n17_m160_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138065 exceeded memory limit (33730704 > 33554432), being killed
+slurmstepd: error: *** JOB 3138065 ON r4n21 CANCELLED AT 2017-05-04T19:26:22 ***
+./experiments/eil51_sub/eil51_n17_m160_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138067 exceeded memory limit (33644576 > 33554432), being killed
+slurmstepd: error: *** JOB 3138067 ON r1n26 CANCELLED AT 2017-05-04T18:59:20 ***
+./experiments/eil51_sub/eil51_n17_m160_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138068 exceeded memory limit (33564376 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138068 ON r1n13 CANCELLED AT 2017-05-04T19:02:48 ***
+./experiments/eil51_sub/eil51_n17_m160_uncorr-similar-weights_01.ttp	slurmstepd: error: Job 3138070 exceeded memory limit (33567572 > 33554432), being killed
+slurmstepd: error: *** JOB 3138070 ON r1n33 CANCELLED AT 2017-05-04T22:04:48 ***
+./experiments/eil51_sub/eil51_n17_m160_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3138073 exceeded memory limit (33659708 > 33554432), being killed
+slurmstepd: error: *** JOB 3138073 ON r1n39 CANCELLED AT 2017-05-04T21:34:48 ***
+./experiments/eil51_sub/eil51_n17_m160_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138079 exceeded memory limit (33564392 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138079 ON r3n22 CANCELLED AT 2017-05-04T21:31:21 ***
+./experiments/eil51_sub/eil51_n17_m160_uncorr_01.ttp	slurmstepd: error: Job 3138080 exceeded memory limit (33608992 > 33554432), being killed
+slurmstepd: error: *** JOB 3138080 ON r3n22 CANCELLED AT 2017-05-04T22:08:45 ***
+./experiments/eil51_sub/eil51_n17_m160_uncorr_06.ttp	slurmstepd: error: Job 3138084 exceeded memory limit (33614700 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138084 ON r1n45 CANCELLED AT 2017-05-04T21:31:17 ***
+./experiments/eil51_sub/eil51_n17_m160_uncorr_10.ttp	slurmstepd: error: Job 3138090 exceeded memory limit (33685960 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138090 ON r4n07 CANCELLED AT 2017-05-04T20:42:09 ***
+./experiments/eil51_sub/eil51_n17_m16_multiple-strongly-corr_01.ttp	DP	tour: [1, 8, 3, 14, 7, 4, 5, 12, 15, 11, 13, 9, 17, 2, 16, 10, 6, 1]	benefit: 685.5648178524286	weight: 754	profit: 1554	packingplan: [12, 14, 15, 16]	time:248.558
+./experiments/eil51_sub/eil51_n17_m16_multiple-strongly-corr_06.ttp	DP	tour: [1, 3, 14, 7, 4, 5, 12, 15, 11, 13, 9, 17, 2, 16, 10, 6, 8, 1]	benefit: 2301.370024824674	weight: 3960	profit: 6360	packingplan: [1, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]	time:1709.975
+./experiments/eil51_sub/eil51_n17_m16_multiple-strongly-corr_10.ttp	DP	tour: [1, 6, 10, 16, 2, 17, 9, 13, 11, 15, 12, 5, 4, 7, 14, 3, 8, 1]	benefit: 3826.097527778698	weight: 6081	profit: 8981	packingplan: [1, 2, 3, 4, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16]	time:2190.393
+./experiments/eil51_sub/eil51_n17_m16_uncorr-similar-weights_01.ttp	DP	tour: [1, 6, 10, 16, 2, 17, 9, 13, 11, 15, 12, 5, 4, 7, 14, 3, 8, 1]	benefit: 556.8510901242689	weight: 100045	profit: 955	packingplan: [1]	time:70.78
+./experiments/eil51_sub/eil51_n17_m16_uncorr-similar-weights_06.ttp	DP	tour: [1, 6, 10, 16, 2, 17, 9, 13, 11, 15, 12, 5, 4, 7, 14, 3, 8, 1]	benefit: 3052.875897154082	weight: 800346	profit: 6175	packingplan: [1, 2, 3, 4, 5, 6, 7, 8]	time:473.621
+./experiments/eil51_sub/eil51_n17_m16_uncorr-similar-weights_10.ttp	DP	tour: [1, 6, 10, 16, 2, 17, 9, 13, 11, 15, 12, 5, 4, 7, 14, 3, 8, 1]	benefit: 2935.9606197693524	weight: 1100542	profit: 8839	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	time:787.698
+./experiments/eil51_sub/eil51_n17_m16_uncorr_01.ttp	DP	tour: [1, 6, 10, 16, 2, 17, 9, 13, 11, 15, 12, 5, 4, 7, 14, 3, 8, 1]	benefit: 2342.663685583844	weight: 689	profit: 3505	packingplan: [1, 3, 4, 6, 9]	time:134.905
+./experiments/eil51_sub/eil51_n17_m16_uncorr_06.ttp	DP	tour: [1, 6, 10, 16, 2, 17, 9, 13, 11, 15, 12, 5, 4, 7, 14, 3, 8, 1]	benefit: 3550.5394445828388	weight: 3366	profit: 6017	packingplan: [1, 2, 3, 4, 5, 6, 7, 9, 11, 14]	time:370.565
+./experiments/eil51_sub/eil51_n17_m16_uncorr_10.ttp	DP	tour: [1, 6, 10, 16, 2, 17, 9, 13, 11, 15, 12, 5, 4, 7, 14, 3, 8, 1]	benefit: 2275.2791350632583	weight: 6695	profit: 6304	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14]	time:554.456
+./experiments/eil51_sub/eil51_n17_m80_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138115 exceeded memory limit (33589704 > 33554432), being killed
+slurmstepd: error: *** JOB 3138115 ON r3n02 CANCELLED AT 2017-05-04T19:35:22 ***
+./experiments/eil51_sub/eil51_n17_m80_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138118 exceeded memory limit (34364180 > 33554432), being killed
+slurmstepd: error: *** JOB 3138118 ON r4n17 CANCELLED AT 2017-05-04T19:18:52 ***
+./experiments/eil51_sub/eil51_n17_m80_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138120 exceeded memory limit (33656180 > 33554432), being killed
+slurmstepd: error: *** JOB 3138120 ON r2n17 CANCELLED AT 2017-05-04T19:39:50 ***
+./experiments/eil51_sub/eil51_n17_m80_uncorr-similar-weights_01.ttp	DP	tour: [1, 6, 10, 16, 2, 17, 9, 13, 11, 15, 12, 5, 4, 7, 14, 3, 8, 1]	benefit: 5490.866292465468	weight: 700429	profit: 6822	packingplan: [1, 2, 3, 4, 5, 6, 7]	time:7813.78
+./experiments/eil51_sub/eil51_n17_m80_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3138123 exceeded memory limit (33579820 > 33554432), being killed
+slurmstepd: error: *** JOB 3138123 ON r1n13 CANCELLED AT 2017-05-04T21:07:15 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n17_m80_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138124 exceeded memory limit (33555996 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138124 ON r2n22 CANCELLED AT 2017-05-04T20:59:14 ***
+./experiments/eil51_sub/eil51_n17_m80_uncorr_01.ttp	DP	tour: [1, 6, 10, 16, 2, 17, 9, 13, 11, 15, 12, 5, 4, 7, 14, 3, 8, 1]	benefit: 9686.833853211117	weight: 3406	profit: 14975	packingplan: [1, 2, 3, 4, 5, 6, 9, 14, 16, 21, 22, 25, 26, 29, 31, 34, 35, 38, 48, 52]	time:4103.988
+./experiments/eil51_sub/eil51_n17_m80_uncorr_06.ttp	slurmstepd: error: Job 3138126 exceeded memory limit (33620904 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138126 ON r3n08 CANCELLED AT 2017-05-04T21:19:11 ***
+./experiments/eil51_sub/eil51_n17_m80_uncorr_10.ttp	slurmstepd: error: Job 3138127 exceeded memory limit (33658200 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138127 ON r2n18 CANCELLED AT 2017-05-04T20:44:09 ***
+./experiments/eil51_sub/eil51_n18_m170_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138128 exceeded memory limit (33958772 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138128 ON r3n08 CANCELLED AT 2017-05-04T19:41:37 ***
+./experiments/eil51_sub/eil51_n18_m170_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138131 exceeded memory limit (34333060 > 33554432), being killed
+slurmstepd: error: *** JOB 3138131 ON r3n02 CANCELLED AT 2017-05-04T19:24:05 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n18_m170_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138133 exceeded memory limit (33556688 > 33554432), being killed
+slurmstepd: error: *** JOB 3138133 ON r3n13 CANCELLED AT 2017-05-04T19:30:32 ***
+./experiments/eil51_sub/eil51_n18_m170_uncorr-similar-weights_01.ttp	slurmstepd: error: Job 3138134 exceeded memory limit (33643576 > 33554432), being killed
+slurmstepd: error: *** JOB 3138134 ON r1n35 CANCELLED AT 2017-05-04T21:50:32 ***
+./experiments/eil51_sub/eil51_n18_m170_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3138135 exceeded memory limit (33598900 > 33554432), being killed
+slurmstepd: error: *** JOB 3138135 ON r1n06 CANCELLED AT 2017-05-04T21:34:59 ***
+./experiments/eil51_sub/eil51_n18_m170_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138138 exceeded memory limit (33609932 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138138 ON r2n05 CANCELLED AT 2017-05-04T21:10:25 ***
+./experiments/eil51_sub/eil51_n18_m170_uncorr_01.ttp	slurmstepd: error: Job 3138139 exceeded memory limit (33621888 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138139 ON r4n15 CANCELLED AT 2017-05-04T21:34:22 ***
+./experiments/eil51_sub/eil51_n18_m170_uncorr_06.ttp	slurmstepd: error: Job 3138147 exceeded memory limit (34414456 > 33554432), being killed
+slurmstepd: error: *** JOB 3138147 ON r1n29 CANCELLED AT 2017-05-04T21:47:58 ***
+./experiments/eil51_sub/eil51_n18_m170_uncorr_10.ttp	slurmstepd: error: Job 3138148 exceeded memory limit (34623140 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138148 ON r1n29 CANCELLED AT 2017-05-04T21:58:25 ***
+./experiments/eil51_sub/eil51_n18_m17_multiple-strongly-corr_01.ttp	DP	tour: [1, 6, 5, 14, 8, 2, 13, 7, 18, 9, 15, 10, 16, 3, 11, 12, 4, 17, 1]	benefit: 834.0305740212467	weight: 937	profit: 1737	packingplan: [13, 14, 15, 17]	time:715.655
+./experiments/eil51_sub/eil51_n18_m17_multiple-strongly-corr_06.ttp	DP	tour: [1, 2, 13, 7, 18, 15, 10, 16, 12, 5, 6, 17, 4, 11, 3, 9, 8, 14, 1]	benefit: 2950.9632868133085	weight: 4267	profit: 6667	packingplan: [1, 2, 7, 10, 11, 12, 13, 14, 15, 16, 17]	time:5904.3
+./experiments/eil51_sub/eil51_n18_m17_multiple-strongly-corr_10.ttp	DP	tour: [1, 2, 6, 5, 17, 4, 12, 16, 3, 11, 9, 10, 15, 7, 13, 18, 8, 14, 1]	benefit: 5531.372728110092	weight: 6932	profit: 10232	packingplan: [1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]	time:6252.42
+./experiments/eil51_sub/eil51_n18_m17_uncorr-similar-weights_01.ttp	DP	tour: [1, 6, 5, 17, 4, 12, 11, 3, 16, 10, 15, 9, 18, 7, 13, 2, 8, 14, 1]	benefit: 532.9056696114033	weight: 100045	profit: 955	packingplan: [1]	time:148.252
+./experiments/eil51_sub/eil51_n18_m17_uncorr-similar-weights_06.ttp	DP	tour: [1, 6, 5, 17, 4, 12, 11, 3, 16, 10, 15, 9, 18, 7, 13, 2, 8, 14, 1]	benefit: 4621.054352622383	weight: 900397	profit: 6661	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9]	time:1072.522
+./experiments/eil51_sub/eil51_n18_m17_uncorr-similar-weights_10.ttp	DP	tour: [1, 6, 5, 17, 4, 12, 11, 16, 3, 10, 15, 9, 18, 7, 13, 2, 8, 14, 1]	benefit: 4420.438399495029	weight: 1200572	profit: 9332	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]	time:1929.316
+./experiments/eil51_sub/eil51_n18_m17_uncorr_01.ttp	DP	tour: [1, 2, 6, 5, 17, 4, 12, 11, 16, 3, 10, 15, 9, 7, 13, 18, 8, 14, 1]	benefit: 2644.491449490461	weight: 941	profit: 3927	packingplan: [1, 3, 4, 6, 9, 11]	time:366.082
+./experiments/eil51_sub/eil51_n18_m17_uncorr_06.ttp	DP	tour: [1, 6, 5, 17, 4, 12, 11, 3, 16, 10, 15, 9, 18, 7, 13, 2, 8, 14, 1]	benefit: 3740.0050950068157	weight: 4001	profit: 6624	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12]	time:1032.414
+./experiments/eil51_sub/eil51_n18_m17_uncorr_10.ttp	DP	tour: [1, 6, 5, 17, 4, 12, 11, 16, 3, 10, 15, 9, 18, 7, 13, 2, 8, 14, 1]	benefit: 3222.6032234589816	weight: 7272	profit: 7040	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 15]	time:1462.681
+./experiments/eil51_sub/eil51_n18_m85_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138177 exceeded memory limit (33710088 > 33554432), being killed
+slurmstepd: error: *** JOB 3138177 ON r2n31 CANCELLED AT 2017-05-04T20:07:19 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n18_m85_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138181 exceeded memory limit (33616444 > 33554432), being killed
+slurmstepd: error: *** JOB 3138181 ON r2n40 CANCELLED AT 2017-05-04T19:43:45 ***
+./experiments/eil51_sub/eil51_n18_m85_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138182 exceeded memory limit (33607532 > 33554432), being killed
+slurmstepd: error: *** JOB 3138182 ON r2n22 CANCELLED AT 2017-05-04T19:48:39 ***
+./experiments/eil51_sub/eil51_n18_m85_uncorr-similar-weights_01.ttp	DP	tour: [1, 6, 5, 17, 4, 12, 11, 3, 16, 10, 15, 9, 18, 7, 13, 2, 8, 14, 1]	benefit: 5328.474682517639	weight: 700429	profit: 6822	packingplan: [1, 2, 3, 4, 5, 6, 7]	time:19611.477
+./experiments/eil51_sub/eil51_n18_m85_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3138190 exceeded memory limit (33589892 > 33554432), being killed
+slurmstepd: error: *** JOB 3138190 ON r2n19 CANCELLED AT 2017-05-04T21:42:55 ***
+./experiments/eil51_sub/eil51_n18_m85_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138193 exceeded memory limit (33630360 > 33554432), being killed
+slurmstepd: error: *** JOB 3138193 ON r3n15 CANCELLED AT 2017-05-04T22:26:50 ***
+./experiments/eil51_sub/eil51_n18_m85_uncorr_01.ttp	DP	tour: [1, 6, 5, 17, 4, 12, 11, 3, 16, 10, 15, 7, 13, 18, 9, 8, 2, 14, 1]	benefit: 11402.587752857042	weight: 3702	profit: 16147	packingplan: [1, 2, 3, 5, 6, 10, 12, 15, 17, 22, 23, 26, 27, 30, 31, 32, 33, 35, 36, 39, 49, 53]	time:12848.781
+./experiments/eil51_sub/eil51_n18_m85_uncorr_06.ttp	slurmstepd: error: Job 3138195 exceeded memory limit (33623968 > 33554432), being killed
+slurmstepd: error: *** JOB 3138195 ON r4n24 CANCELLED AT 2017-05-04T21:15:38 ***
+./experiments/eil51_sub/eil51_n18_m85_uncorr_10.ttp	slurmstepd: error: Job 3138199 exceeded memory limit (33614204 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138199 ON r2n18 CANCELLED AT 2017-05-04T21:16:06 ***
+./experiments/eil51_sub/eil51_n19_m180_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138200 exceeded memory limit (33556144 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138200 ON r2n08 CANCELLED AT 2017-05-04T20:13:35 ***
+./experiments/eil51_sub/eil51_n19_m180_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138203 exceeded memory limit (33610976 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138203 ON r4n21 CANCELLED AT 2017-05-04T20:01:34 ***
+./experiments/eil51_sub/eil51_n19_m180_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138205 exceeded memory limit (33761364 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138205 ON r1n44 CANCELLED AT 2017-05-04T20:00:35 ***
+./experiments/eil51_sub/eil51_n19_m180_uncorr-similar-weights_01.ttp	slurmstepd: error: Job 3138210 exceeded memory limit (33577188 > 33554432), being killed
+slurmstepd: error: *** JOB 3138210 ON r1n26 CANCELLED AT 2017-05-04T22:08:03 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n19_m180_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3138211 exceeded memory limit (33577848 > 33554432), being killed
+slurmstepd: error: *** JOB 3138211 ON r2n06 CANCELLED AT 2017-05-04T21:56:34 ***
+./experiments/eil51_sub/eil51_n19_m180_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138212 exceeded memory limit (33557960 > 33554432), being killed
+slurmstepd: error: *** JOB 3138212 ON r3n22 CANCELLED AT 2017-05-04T21:55:39 ***
+./experiments/eil51_sub/eil51_n19_m180_uncorr_01.ttp	slurmstepd: error: Job 3138213 exceeded memory limit (33558296 > 33554432), being killed
+slurmstepd: error: *** JOB 3138213 ON r2n27 CANCELLED AT 2017-05-04T21:41:32 ***
+./experiments/eil51_sub/eil51_n19_m180_uncorr_06.ttp	slurmstepd: error: Job 3138214 exceeded memory limit (33637908 > 33554432), being killed
+slurmstepd: error: *** JOB 3138214 ON r2n19 CANCELLED AT 2017-05-04T21:18:32 ***
+./experiments/eil51_sub/eil51_n19_m180_uncorr_10.ttp	slurmstepd: error: Job 3138215 exceeded memory limit (33612648 > 33554432), being killed
+slurmstepd: error: *** JOB 3138215 ON r2n41 CANCELLED AT 2017-05-04T21:31:37 ***
+./experiments/eil51_sub/eil51_n19_m18_multiple-strongly-corr_01.ttp	DP	tour: [1, 13, 11, 3, 14, 12, 7, 16, 4, 5, 6, 19, 15, 8, 17, 10, 18, 9, 2, 1]	benefit: 910.2285591971875	weight: 987	profit: 1787	packingplan: [6, 16, 17, 18]	time:1771.569
+./experiments/eil51_sub/eil51_n19_m18_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138219 exceeded memory limit (33643804 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138219 ON r2n25 CANCELLED AT 2017-05-04T21:31:06 ***
+./experiments/eil51_sub/eil51_n19_m18_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138221 exceeded memory limit (34948164 > 33554432), being killed
+slurmstepd: error: *** JOB 3138221 ON r2n25 CANCELLED AT 2017-05-04T21:50:06 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n19_m18_uncorr-similar-weights_01.ttp	DP	tour: [1, 9, 18, 10, 17, 8, 15, 19, 6, 5, 4, 16, 7, 2, 12, 14, 3, 11, 13, 1]	benefit: 472.1863283588168	weight: 100045	profit: 955	packingplan: [1]	time:412.322
+./experiments/eil51_sub/eil51_n19_m18_uncorr-similar-weights_06.ttp	DP	tour: [1, 9, 18, 10, 17, 8, 15, 19, 6, 5, 4, 16, 7, 2, 12, 14, 3, 11, 13, 1]	benefit: 4079.415583144424	weight: 900397	profit: 6661	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9]	time:3274.375
+./experiments/eil51_sub/eil51_n19_m18_uncorr-similar-weights_10.ttp	DP	tour: [1, 9, 18, 10, 17, 8, 15, 19, 6, 5, 4, 16, 7, 2, 12, 14, 3, 11, 13, 1]	benefit: 5573.694655277964	weight: 1300585	profit: 9844	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]	time:5878.814
+./experiments/eil51_sub/eil51_n19_m18_uncorr_01.ttp	DP	tour: [1, 9, 18, 10, 17, 8, 15, 19, 6, 5, 4, 16, 7, 2, 12, 14, 3, 11, 13, 1]	benefit: 2604.84357233432	weight: 689	profit: 3505	packingplan: [1, 3, 5, 7, 10]	time:830.18
+./experiments/eil51_sub/eil51_n19_m18_uncorr_06.ttp	DP	tour: [1, 9, 18, 10, 17, 8, 15, 19, 6, 5, 4, 16, 7, 2, 12, 14, 3, 11, 13, 1]	benefit: 4798.879569364121	weight: 3959	profit: 7229	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 13, 16]	time:2814.604
+./experiments/eil51_sub/eil51_n19_m18_uncorr_10.ttp	DP	tour: [1, 9, 18, 10, 17, 8, 15, 19, 6, 5, 4, 16, 7, 2, 12, 14, 3, 11, 13, 1]	benefit: 4048.40787706459	weight: 7784	profit: 7554	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 16]	time:3884.268
+./experiments/eil51_sub/eil51_n19_m90_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138230 exceeded memory limit (33682152 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138230 ON r2n17 CANCELLED AT 2017-05-04T20:23:10 ***
+./experiments/eil51_sub/eil51_n19_m90_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138231 exceeded memory limit (34476840 > 33554432), being killed
+slurmstepd: error: *** JOB 3138231 ON r2n11 CANCELLED AT 2017-05-04T20:09:39 ***
+./experiments/eil51_sub/eil51_n19_m90_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138233 exceeded memory limit (34001892 > 33554432), being killed
+slurmstepd: error: *** JOB 3138233 ON r2n06 CANCELLED AT 2017-05-04T20:18:05 ***
+./experiments/eil51_sub/eil51_n19_m90_uncorr-similar-weights_01.ttp	slurmstepd: error: Job 3138234 exceeded memory limit (33557660 > 33554432), being killed
+slurmstepd: error: *** JOB 3138234 ON r3n02 CANCELLED AT 2017-05-04T22:34:37 ***
+./experiments/eil51_sub/eil51_n19_m90_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3138235 exceeded memory limit (33640700 > 33554432), being killed
+slurmstepd: error: *** JOB 3138235 ON r3n24 CANCELLED AT 2017-05-04T21:16:04 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n19_m90_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138236 exceeded memory limit (33557308 > 33554432), being killed
+slurmstepd: error: *** JOB 3138236 ON r3n24 CANCELLED AT 2017-05-04T21:10:34 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n19_m90_uncorr_01.ttp	slurmstepd: error: Job 3138246 exceeded memory limit (33581732 > 33554432), being killed
+slurmstepd: error: *** JOB 3138246 ON r2n07 CANCELLED AT 2017-05-05T00:11:35 ***
+./experiments/eil51_sub/eil51_n19_m90_uncorr_06.ttp	slurmstepd: error: Job 3138249 exceeded memory limit (33565548 > 33554432), being killed
+slurmstepd: error: *** JOB 3138249 ON r2n07 CANCELLED AT 2017-05-04T21:30:37 ***
+./experiments/eil51_sub/eil51_n19_m90_uncorr_10.ttp	slurmstepd: error: Job 3138250 exceeded memory limit (33617896 > 33554432), being killed
+slurmstepd: error: *** JOB 3138250 ON r3n13 CANCELLED AT 2017-05-04T21:21:37 ***
+./experiments/eil51_sub/eil51_n20_m190_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138251 exceeded memory limit (33611584 > 33554432), being killed
+slurmstepd: error: *** JOB 3138251 ON r4n17 CANCELLED AT 2017-05-04T20:26:06 ***
+./experiments/eil51_sub/eil51_n20_m190_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138256 exceeded memory limit (33643228 > 33554432), being killed
+slurmstepd: error: *** JOB 3138256 ON r4n21 CANCELLED AT 2017-05-04T20:15:05 ***
+./experiments/eil51_sub/eil51_n20_m190_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138257 exceeded memory limit (33632416 > 33554432), being killed
+slurmstepd: error: *** JOB 3138257 ON r3n02 CANCELLED AT 2017-05-04T20:11:05 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n20_m190_uncorr-similar-weights_01.ttp	slurmstepd: error: Job 3138258 exceeded memory limit (33733028 > 33554432), being killed
+slurmstepd: error: *** JOB 3138258 ON r2n19 CANCELLED AT 2017-05-04T21:58:07 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n20_m190_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3138259 exceeded memory limit (33563696 > 33554432), being killed
+slurmstepd: error: *** JOB 3138259 ON r2n31 CANCELLED AT 2017-05-04T22:01:37 ***
+./experiments/eil51_sub/eil51_n20_m190_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138331 exceeded memory limit (33576480 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138331 ON r2n34 CANCELLED AT 2017-05-04T22:12:04 ***
+./experiments/eil51_sub/eil51_n20_m190_uncorr_01.ttp	slurmstepd: error: Job 3138631 exceeded memory limit (33606012 > 33554432), being killed
+slurmstepd: error: *** JOB 3138631 ON r2n17 CANCELLED AT 2017-05-04T21:57:34 ***
+./experiments/eil51_sub/eil51_n20_m190_uncorr_06.ttp	slurmstepd: error: Job 3138634 exceeded memory limit (33684600 > 33554432), being killed
+slurmstepd: error: *** JOB 3138634 ON r2n39 CANCELLED AT 2017-05-04T21:29:02 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n20_m190_uncorr_10.ttp	slurmstepd: error: Job 3138637 exceeded memory limit (33584624 > 33554432), being killed
+slurmstepd: error: *** JOB 3138637 ON r3n08 CANCELLED AT 2017-05-04T21:28:02 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n20_m19_multiple-strongly-corr_01.ttp	DP	tour: [1, 4, 15, 7, 6, 14, 17, 5, 18, 12, 13, 9, 8, 11, 10, 2, 16, 20, 19, 3, 1]	benefit: 518.1886823475738	weight: 937	profit: 1737	packingplan: [15, 16, 17, 19]	time:4533.695
+./experiments/eil51_sub/eil51_n20_m19_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138639 exceeded memory limit (33587928 > 33554432), being killed
+slurmstepd: error: *** JOB 3138639 ON r1n16 CANCELLED AT 2017-05-04T21:03:07 ***
+./experiments/eil51_sub/eil51_n20_m19_multiple-strongly-corr_10.ttp	slurmstepd: error: Job 3138642 exceeded memory limit (33687512 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138642 ON r2n22 CANCELLED AT 2017-05-04T21:04:05 ***
+./experiments/eil51_sub/eil51_n20_m19_uncorr-similar-weights_01.ttp	DP	tour: [1, 6, 14, 3, 19, 20, 16, 2, 10, 11, 8, 9, 13, 12, 18, 5, 17, 7, 15, 4, 1]	benefit: 451.0516925502419	weight: 100045	profit: 955	packingplan: [1]	time:1007.748
+./experiments/eil51_sub/eil51_n20_m19_uncorr-similar-weights_06.ttp	DP	tour: [1, 6, 14, 3, 19, 20, 16, 2, 10, 11, 8, 9, 13, 12, 18, 5, 17, 7, 15, 4, 1]	benefit: 4533.83340056328	weight: 1000449	profit: 7180	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]	time:10763
+./experiments/eil51_sub/eil51_n20_m19_uncorr-similar-weights_10.ttp	DP	tour: [1, 6, 14, 3, 19, 20, 16, 2, 10, 11, 8, 9, 13, 12, 18, 5, 17, 7, 15, 4, 1]	benefit: 4169.79899146292	weight: 1300585	profit: 9844	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]	time:15075.658
+./experiments/eil51_sub/eil51_n20_m19_uncorr_01.ttp	DP	tour: [1, 6, 14, 3, 19, 20, 16, 2, 10, 11, 8, 9, 13, 12, 18, 5, 17, 7, 15, 4, 1]	benefit: 2092.6730333252417	weight: 635	profit: 3507	packingplan: [1, 4, 6, 8, 11]	time:2456.873
+./experiments/eil51_sub/eil51_n20_m19_uncorr_06.ttp	DP	tour: [1, 6, 14, 3, 19, 20, 16, 2, 10, 11, 8, 9, 13, 12, 18, 5, 17, 7, 15, 4, 1]	benefit: 4274.818419982722	weight: 4123	profit: 7748	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 14]	time:9719.204
+./experiments/eil51_sub/eil51_n20_m19_uncorr_10.ttp	DP	tour: [1, 6, 14, 3, 19, 20, 16, 2, 10, 11, 8, 9, 13, 12, 18, 5, 17, 7, 15, 4, 1]	benefit: 3044.390892147376	weight: 6472	profit: 7873	packingplan: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 17]	time:12775.972
+./experiments/eil51_sub/eil51_n20_m95_multiple-strongly-corr_01.ttp	slurmstepd: error: Job 3138656 exceeded memory limit (33688032 > 33554432), being killed
+slurmstepd: error: *** JOB 3138656 ON r1n44 CANCELLED AT 2017-05-04T20:59:05 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n20_m95_multiple-strongly-corr_06.ttp	slurmstepd: error: Job 3138658 exceeded memory limit (34775860 > 33554432), being killed
+slurmstepd: error: *** JOB 3138658 ON r2n42 CANCELLED AT 2017-05-04T21:59:10 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n20_m95_multiple-strongly-corr_10.ttp	Exception in thread "main" java.lang.NullPointerException
+	at ttp.problem.Problem.distance(Problem.java:78)
+	at ttp.problem.Problem.distance(Problem.java:74)
+	at ttp.problem.Tour.updateAdjacentDistances(Tour.java:82)
+	at ttp.problem.Tour.updateAdjacentDistances(Tour.java:77)
+	at ttp.problem.Tour.update(Tour.java:54)
+	at ttp.dp.TourDP.initiallyBest(TourDP.java:67)
+	at ttp.dp.TourDP.<init>(TourDP.java:58)
+	at nkp.experiment.DpExp.experimentDp(DpExp.java:142)
+	at nkp.experiment.DpExp.main(DpExp.java:36)
+./experiments/eil51_sub/eil51_n20_m95_uncorr-similar-weights_01.ttp	Exception in thread "main" java.lang.NullPointerException
+	at ttp.problem.Problem.distance(Problem.java:78)
+	at ttp.problem.Problem.distance(Problem.java:74)
+	at ttp.problem.Tour.updateAdjacentDistances(Tour.java:82)
+	at ttp.problem.Tour.updateAdjacentDistances(Tour.java:77)
+	at ttp.problem.Tour.update(Tour.java:54)
+	at ttp.dp.TourDP.initiallyBest(TourDP.java:67)
+	at ttp.dp.TourDP.<init>(TourDP.java:58)
+	at nkp.experiment.DpExp.experimentDp(DpExp.java:142)
+	at nkp.experiment.DpExp.main(DpExp.java:36)
+./experiments/eil51_sub/eil51_n20_m95_uncorr-similar-weights_06.ttp	slurmstepd: error: Job 3138662 exceeded memory limit (33560348 > 33554432), being killed
+slurmstepd: error: *** JOB 3138662 ON r2n11 CANCELLED AT 2017-05-04T22:04:34 ***
+./experiments/eil51_sub/eil51_n20_m95_uncorr-similar-weights_10.ttp	slurmstepd: error: Job 3138663 exceeded memory limit (33574116 > 33554432), being killed
+slurmstepd: error: *** JOB 3138663 ON r2n31 CANCELLED AT 2017-05-04T21:50:04 ***
+slurmstepd: error: Exceeded job memory limit
+./experiments/eil51_sub/eil51_n20_m95_uncorr_01.ttp	slurmstepd: error: Job 3138664 exceeded memory limit (33604356 > 33554432), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** JOB 3138664 ON r2n43 CANCELLED AT 2017-05-04T22:27:04 ***
+./experiments/eil51_sub/eil51_n20_m95_uncorr_06.ttp	slurmstepd: error: Job 3138665 exceeded memory limit (33693068 > 33554432), being killed
+slurmstepd: error: *** JOB 3138665 ON r2n40 CANCELLED AT 2017-05-04T21:50:35 ***
+./experiments/eil51_sub/eil51_n20_m95_uncorr_10.ttp	slurmstepd: error: Job 3138666 exceeded memory limit (33636468 > 33554432), being killed
+slurmstepd: error: *** JOB 3138666 ON r2n08 CANCELLED AT 2017-05-04T22:01:03 ***
+slurmstepd: error: Exceeded job memory limit

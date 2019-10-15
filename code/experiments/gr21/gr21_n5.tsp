@@ -1,0 +1,13 @@
+NAME: gr21_n5
+TYPE: TSP
+COMMENT: 5-city problem (Groetschel)
+DIMENSION: 5
+EDGE_WEIGHT_TYPE: EXPLICIT
+EDGE_WEIGHT_FORMAT: LOWER_DIAG_ROW 
+EDGE_WEIGHT_SECTION
+0
+510	0
+635	355	0
+91	415	605	0
+385	585	390	350	0                                          
+EOF            

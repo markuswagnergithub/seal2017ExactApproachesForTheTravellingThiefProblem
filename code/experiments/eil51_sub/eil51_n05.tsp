@@ -1,0 +1,12 @@
+NAME : eil51_n5
+COMMENT : 5-city problem (Christofides/Eilon)
+TYPE : TSP
+DIMENSION : 5
+EDGE_WEIGHT_TYPE : CEIL_2D
+NODE_COORD_SECTION
+1 31 32
+2 36 16
+3 62 63
+4 5 6
+5 30 15
+EOF
